@@ -1,1 +1,1 @@
-# tracking-sales-project
+# sales-tracking-project
